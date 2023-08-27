@@ -1,0 +1,15 @@
+C:\Users\Emerson Oliveira\Documents\csharp-fundamentos-curso\Seção_1_Introdução\10-FuncoesMAtematicas\10-FuncoesMAtematicas\obj\Debug\net7.0\10-FuncoesMAtematicas.csproj.AssemblyReference.cache
+C:\Users\Emerson Oliveira\Documents\csharp-fundamentos-curso\Seção_1_Introdução\10-FuncoesMAtematicas\10-FuncoesMAtematicas\obj\Debug\net7.0\10-FuncoesMAtematicas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Emerson Oliveira\Documents\csharp-fundamentos-curso\Seção_1_Introdução\10-FuncoesMAtematicas\10-FuncoesMAtematicas\obj\Debug\net7.0\10-FuncoesMAtematicas.AssemblyInfoInputs.cache
+C:\Users\Emerson Oliveira\Documents\csharp-fundamentos-curso\Seção_1_Introdução\10-FuncoesMAtematicas\10-FuncoesMAtematicas\obj\Debug\net7.0\10-FuncoesMAtematicas.AssemblyInfo.cs
+C:\Users\Emerson Oliveira\Documents\csharp-fundamentos-curso\Seção_1_Introdução\10-FuncoesMAtematicas\10-FuncoesMAtematicas\obj\Debug\net7.0\10-FuncoesMAtematicas.csproj.CoreCompileInputs.cache
+C:\Users\Emerson Oliveira\Documents\csharp-fundamentos-curso\Seção_1_Introdução\10-FuncoesMAtematicas\10-FuncoesMAtematicas\bin\Debug\net7.0\10-FuncoesMAtematicas.exe
+C:\Users\Emerson Oliveira\Documents\csharp-fundamentos-curso\Seção_1_Introdução\10-FuncoesMAtematicas\10-FuncoesMAtematicas\bin\Debug\net7.0\10-FuncoesMAtematicas.deps.json
+C:\Users\Emerson Oliveira\Documents\csharp-fundamentos-curso\Seção_1_Introdução\10-FuncoesMAtematicas\10-FuncoesMAtematicas\bin\Debug\net7.0\10-FuncoesMAtematicas.runtimeconfig.json
+C:\Users\Emerson Oliveira\Documents\csharp-fundamentos-curso\Seção_1_Introdução\10-FuncoesMAtematicas\10-FuncoesMAtematicas\bin\Debug\net7.0\10-FuncoesMAtematicas.dll
+C:\Users\Emerson Oliveira\Documents\csharp-fundamentos-curso\Seção_1_Introdução\10-FuncoesMAtematicas\10-FuncoesMAtematicas\bin\Debug\net7.0\10-FuncoesMAtematicas.pdb
+C:\Users\Emerson Oliveira\Documents\csharp-fundamentos-curso\Seção_1_Introdução\10-FuncoesMAtematicas\10-FuncoesMAtematicas\obj\Debug\net7.0\10-FuncoesMAtematicas.dll
+C:\Users\Emerson Oliveira\Documents\csharp-fundamentos-curso\Seção_1_Introdução\10-FuncoesMAtematicas\10-FuncoesMAtematicas\obj\Debug\net7.0\refint\10-FuncoesMAtematicas.dll
+C:\Users\Emerson Oliveira\Documents\csharp-fundamentos-curso\Seção_1_Introdução\10-FuncoesMAtematicas\10-FuncoesMAtematicas\obj\Debug\net7.0\10-FuncoesMAtematicas.pdb
+C:\Users\Emerson Oliveira\Documents\csharp-fundamentos-curso\Seção_1_Introdução\10-FuncoesMAtematicas\10-FuncoesMAtematicas\obj\Debug\net7.0\10-FuncoesMAtematicas.genruntimeconfig.cache
+C:\Users\Emerson Oliveira\Documents\csharp-fundamentos-curso\Seção_1_Introdução\10-FuncoesMAtematicas\10-FuncoesMAtematicas\obj\Debug\net7.0\ref\10-FuncoesMAtematicas.dll
