@@ -1,0 +1,15 @@
+C:\Users\Emerson Oliveira\Documents\csharp-fundamentos-curso\Seção_1_Introdução\6-EntradaDeDados\6-EntradaDeDados\bin\Debug\net7.0\6-EntradaDeDados.exe
+C:\Users\Emerson Oliveira\Documents\csharp-fundamentos-curso\Seção_1_Introdução\6-EntradaDeDados\6-EntradaDeDados\bin\Debug\net7.0\6-EntradaDeDados.deps.json
+C:\Users\Emerson Oliveira\Documents\csharp-fundamentos-curso\Seção_1_Introdução\6-EntradaDeDados\6-EntradaDeDados\bin\Debug\net7.0\6-EntradaDeDados.runtimeconfig.json
+C:\Users\Emerson Oliveira\Documents\csharp-fundamentos-curso\Seção_1_Introdução\6-EntradaDeDados\6-EntradaDeDados\bin\Debug\net7.0\6-EntradaDeDados.dll
+C:\Users\Emerson Oliveira\Documents\csharp-fundamentos-curso\Seção_1_Introdução\6-EntradaDeDados\6-EntradaDeDados\bin\Debug\net7.0\6-EntradaDeDados.pdb
+C:\Users\Emerson Oliveira\Documents\csharp-fundamentos-curso\Seção_1_Introdução\6-EntradaDeDados\6-EntradaDeDados\obj\Debug\net7.0\6-EntradaDeDados.csproj.AssemblyReference.cache
+C:\Users\Emerson Oliveira\Documents\csharp-fundamentos-curso\Seção_1_Introdução\6-EntradaDeDados\6-EntradaDeDados\obj\Debug\net7.0\6-EntradaDeDados.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Emerson Oliveira\Documents\csharp-fundamentos-curso\Seção_1_Introdução\6-EntradaDeDados\6-EntradaDeDados\obj\Debug\net7.0\6-EntradaDeDados.AssemblyInfoInputs.cache
+C:\Users\Emerson Oliveira\Documents\csharp-fundamentos-curso\Seção_1_Introdução\6-EntradaDeDados\6-EntradaDeDados\obj\Debug\net7.0\6-EntradaDeDados.AssemblyInfo.cs
+C:\Users\Emerson Oliveira\Documents\csharp-fundamentos-curso\Seção_1_Introdução\6-EntradaDeDados\6-EntradaDeDados\obj\Debug\net7.0\6-EntradaDeDados.csproj.CoreCompileInputs.cache
+C:\Users\Emerson Oliveira\Documents\csharp-fundamentos-curso\Seção_1_Introdução\6-EntradaDeDados\6-EntradaDeDados\obj\Debug\net7.0\6-EntradaDeDados.dll
+C:\Users\Emerson Oliveira\Documents\csharp-fundamentos-curso\Seção_1_Introdução\6-EntradaDeDados\6-EntradaDeDados\obj\Debug\net7.0\refint\6-EntradaDeDados.dll
+C:\Users\Emerson Oliveira\Documents\csharp-fundamentos-curso\Seção_1_Introdução\6-EntradaDeDados\6-EntradaDeDados\obj\Debug\net7.0\6-EntradaDeDados.pdb
+C:\Users\Emerson Oliveira\Documents\csharp-fundamentos-curso\Seção_1_Introdução\6-EntradaDeDados\6-EntradaDeDados\obj\Debug\net7.0\6-EntradaDeDados.genruntimeconfig.cache
+C:\Users\Emerson Oliveira\Documents\csharp-fundamentos-curso\Seção_1_Introdução\6-EntradaDeDados\6-EntradaDeDados\obj\Debug\net7.0\ref\6-EntradaDeDados.dll

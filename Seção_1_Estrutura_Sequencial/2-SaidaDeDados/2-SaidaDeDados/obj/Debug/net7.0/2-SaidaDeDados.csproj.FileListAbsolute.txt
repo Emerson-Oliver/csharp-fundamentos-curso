@@ -1,0 +1,15 @@
+C:\Users\Emerson Oliveira\Documents\csharp-fundamentos-curso\Seção_1_Introdução\2-SaidaDeDados\2-SaidaDeDados\bin\Debug\net7.0\2-SaidaDeDados.exe
+C:\Users\Emerson Oliveira\Documents\csharp-fundamentos-curso\Seção_1_Introdução\2-SaidaDeDados\2-SaidaDeDados\bin\Debug\net7.0\2-SaidaDeDados.deps.json
+C:\Users\Emerson Oliveira\Documents\csharp-fundamentos-curso\Seção_1_Introdução\2-SaidaDeDados\2-SaidaDeDados\bin\Debug\net7.0\2-SaidaDeDados.runtimeconfig.json
+C:\Users\Emerson Oliveira\Documents\csharp-fundamentos-curso\Seção_1_Introdução\2-SaidaDeDados\2-SaidaDeDados\bin\Debug\net7.0\2-SaidaDeDados.dll
+C:\Users\Emerson Oliveira\Documents\csharp-fundamentos-curso\Seção_1_Introdução\2-SaidaDeDados\2-SaidaDeDados\bin\Debug\net7.0\2-SaidaDeDados.pdb
+C:\Users\Emerson Oliveira\Documents\csharp-fundamentos-curso\Seção_1_Introdução\2-SaidaDeDados\2-SaidaDeDados\obj\Debug\net7.0\2-SaidaDeDados.csproj.AssemblyReference.cache
+C:\Users\Emerson Oliveira\Documents\csharp-fundamentos-curso\Seção_1_Introdução\2-SaidaDeDados\2-SaidaDeDados\obj\Debug\net7.0\2-SaidaDeDados.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Emerson Oliveira\Documents\csharp-fundamentos-curso\Seção_1_Introdução\2-SaidaDeDados\2-SaidaDeDados\obj\Debug\net7.0\2-SaidaDeDados.AssemblyInfoInputs.cache
+C:\Users\Emerson Oliveira\Documents\csharp-fundamentos-curso\Seção_1_Introdução\2-SaidaDeDados\2-SaidaDeDados\obj\Debug\net7.0\2-SaidaDeDados.AssemblyInfo.cs
+C:\Users\Emerson Oliveira\Documents\csharp-fundamentos-curso\Seção_1_Introdução\2-SaidaDeDados\2-SaidaDeDados\obj\Debug\net7.0\2-SaidaDeDados.csproj.CoreCompileInputs.cache
+C:\Users\Emerson Oliveira\Documents\csharp-fundamentos-curso\Seção_1_Introdução\2-SaidaDeDados\2-SaidaDeDados\obj\Debug\net7.0\2-SaidaDeDados.dll
+C:\Users\Emerson Oliveira\Documents\csharp-fundamentos-curso\Seção_1_Introdução\2-SaidaDeDados\2-SaidaDeDados\obj\Debug\net7.0\refint\2-SaidaDeDados.dll
+C:\Users\Emerson Oliveira\Documents\csharp-fundamentos-curso\Seção_1_Introdução\2-SaidaDeDados\2-SaidaDeDados\obj\Debug\net7.0\2-SaidaDeDados.pdb
+C:\Users\Emerson Oliveira\Documents\csharp-fundamentos-curso\Seção_1_Introdução\2-SaidaDeDados\2-SaidaDeDados\obj\Debug\net7.0\2-SaidaDeDados.genruntimeconfig.cache
+C:\Users\Emerson Oliveira\Documents\csharp-fundamentos-curso\Seção_1_Introdução\2-SaidaDeDados\2-SaidaDeDados\obj\Debug\net7.0\ref\2-SaidaDeDados.dll
