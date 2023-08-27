@@ -1,0 +1,15 @@
+C:\Users\Emerson Oliveira\Documents\csharp-fundamentos-curso\Seção_1_Introdução\7-Split\7-Split\bin\Debug\net7.0\7-Split.exe
+C:\Users\Emerson Oliveira\Documents\csharp-fundamentos-curso\Seção_1_Introdução\7-Split\7-Split\bin\Debug\net7.0\7-Split.deps.json
+C:\Users\Emerson Oliveira\Documents\csharp-fundamentos-curso\Seção_1_Introdução\7-Split\7-Split\bin\Debug\net7.0\7-Split.runtimeconfig.json
+C:\Users\Emerson Oliveira\Documents\csharp-fundamentos-curso\Seção_1_Introdução\7-Split\7-Split\bin\Debug\net7.0\7-Split.dll
+C:\Users\Emerson Oliveira\Documents\csharp-fundamentos-curso\Seção_1_Introdução\7-Split\7-Split\bin\Debug\net7.0\7-Split.pdb
+C:\Users\Emerson Oliveira\Documents\csharp-fundamentos-curso\Seção_1_Introdução\7-Split\7-Split\obj\Debug\net7.0\7-Split.csproj.AssemblyReference.cache
+C:\Users\Emerson Oliveira\Documents\csharp-fundamentos-curso\Seção_1_Introdução\7-Split\7-Split\obj\Debug\net7.0\7-Split.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Emerson Oliveira\Documents\csharp-fundamentos-curso\Seção_1_Introdução\7-Split\7-Split\obj\Debug\net7.0\7-Split.AssemblyInfoInputs.cache
+C:\Users\Emerson Oliveira\Documents\csharp-fundamentos-curso\Seção_1_Introdução\7-Split\7-Split\obj\Debug\net7.0\7-Split.AssemblyInfo.cs
+C:\Users\Emerson Oliveira\Documents\csharp-fundamentos-curso\Seção_1_Introdução\7-Split\7-Split\obj\Debug\net7.0\7-Split.csproj.CoreCompileInputs.cache
+C:\Users\Emerson Oliveira\Documents\csharp-fundamentos-curso\Seção_1_Introdução\7-Split\7-Split\obj\Debug\net7.0\7-Split.dll
+C:\Users\Emerson Oliveira\Documents\csharp-fundamentos-curso\Seção_1_Introdução\7-Split\7-Split\obj\Debug\net7.0\refint\7-Split.dll
+C:\Users\Emerson Oliveira\Documents\csharp-fundamentos-curso\Seção_1_Introdução\7-Split\7-Split\obj\Debug\net7.0\7-Split.pdb
+C:\Users\Emerson Oliveira\Documents\csharp-fundamentos-curso\Seção_1_Introdução\7-Split\7-Split\obj\Debug\net7.0\7-Split.genruntimeconfig.cache
+C:\Users\Emerson Oliveira\Documents\csharp-fundamentos-curso\Seção_1_Introdução\7-Split\7-Split\obj\Debug\net7.0\ref\7-Split.dll
