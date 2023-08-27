@@ -1,0 +1,15 @@
+C:\Users\Emerson Oliveira\Documents\csharp-fundamentos-curso\Seção_1_Introdução\3-ProceDadosEcasting\3-ProceDadosEcasting\bin\Debug\net7.0\3-ProceDadosEcasting.exe
+C:\Users\Emerson Oliveira\Documents\csharp-fundamentos-curso\Seção_1_Introdução\3-ProceDadosEcasting\3-ProceDadosEcasting\bin\Debug\net7.0\3-ProceDadosEcasting.deps.json
+C:\Users\Emerson Oliveira\Documents\csharp-fundamentos-curso\Seção_1_Introdução\3-ProceDadosEcasting\3-ProceDadosEcasting\bin\Debug\net7.0\3-ProceDadosEcasting.runtimeconfig.json
+C:\Users\Emerson Oliveira\Documents\csharp-fundamentos-curso\Seção_1_Introdução\3-ProceDadosEcasting\3-ProceDadosEcasting\bin\Debug\net7.0\3-ProceDadosEcasting.dll
+C:\Users\Emerson Oliveira\Documents\csharp-fundamentos-curso\Seção_1_Introdução\3-ProceDadosEcasting\3-ProceDadosEcasting\bin\Debug\net7.0\3-ProceDadosEcasting.pdb
+C:\Users\Emerson Oliveira\Documents\csharp-fundamentos-curso\Seção_1_Introdução\3-ProceDadosEcasting\3-ProceDadosEcasting\obj\Debug\net7.0\3-ProceDadosEcasting.csproj.AssemblyReference.cache
+C:\Users\Emerson Oliveira\Documents\csharp-fundamentos-curso\Seção_1_Introdução\3-ProceDadosEcasting\3-ProceDadosEcasting\obj\Debug\net7.0\3-ProceDadosEcasting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Emerson Oliveira\Documents\csharp-fundamentos-curso\Seção_1_Introdução\3-ProceDadosEcasting\3-ProceDadosEcasting\obj\Debug\net7.0\3-ProceDadosEcasting.AssemblyInfoInputs.cache
+C:\Users\Emerson Oliveira\Documents\csharp-fundamentos-curso\Seção_1_Introdução\3-ProceDadosEcasting\3-ProceDadosEcasting\obj\Debug\net7.0\3-ProceDadosEcasting.AssemblyInfo.cs
+C:\Users\Emerson Oliveira\Documents\csharp-fundamentos-curso\Seção_1_Introdução\3-ProceDadosEcasting\3-ProceDadosEcasting\obj\Debug\net7.0\3-ProceDadosEcasting.csproj.CoreCompileInputs.cache
+C:\Users\Emerson Oliveira\Documents\csharp-fundamentos-curso\Seção_1_Introdução\3-ProceDadosEcasting\3-ProceDadosEcasting\obj\Debug\net7.0\3-ProceDadosEcasting.dll
+C:\Users\Emerson Oliveira\Documents\csharp-fundamentos-curso\Seção_1_Introdução\3-ProceDadosEcasting\3-ProceDadosEcasting\obj\Debug\net7.0\refint\3-ProceDadosEcasting.dll
+C:\Users\Emerson Oliveira\Documents\csharp-fundamentos-curso\Seção_1_Introdução\3-ProceDadosEcasting\3-ProceDadosEcasting\obj\Debug\net7.0\3-ProceDadosEcasting.pdb
+C:\Users\Emerson Oliveira\Documents\csharp-fundamentos-curso\Seção_1_Introdução\3-ProceDadosEcasting\3-ProceDadosEcasting\obj\Debug\net7.0\3-ProceDadosEcasting.genruntimeconfig.cache
+C:\Users\Emerson Oliveira\Documents\csharp-fundamentos-curso\Seção_1_Introdução\3-ProceDadosEcasting\3-ProceDadosEcasting\obj\Debug\net7.0\ref\3-ProceDadosEcasting.dll
