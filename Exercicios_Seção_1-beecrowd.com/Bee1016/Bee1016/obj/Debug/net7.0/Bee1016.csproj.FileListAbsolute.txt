@@ -1,0 +1,15 @@
+C:\Users\Emerson Oliveira\Documents\csharp-fundamentos-curso\Exercicios_beecrowd.com\Bee1016\Bee1016\bin\Debug\net7.0\Bee1016.exe
+C:\Users\Emerson Oliveira\Documents\csharp-fundamentos-curso\Exercicios_beecrowd.com\Bee1016\Bee1016\bin\Debug\net7.0\Bee1016.deps.json
+C:\Users\Emerson Oliveira\Documents\csharp-fundamentos-curso\Exercicios_beecrowd.com\Bee1016\Bee1016\bin\Debug\net7.0\Bee1016.runtimeconfig.json
+C:\Users\Emerson Oliveira\Documents\csharp-fundamentos-curso\Exercicios_beecrowd.com\Bee1016\Bee1016\bin\Debug\net7.0\Bee1016.dll
+C:\Users\Emerson Oliveira\Documents\csharp-fundamentos-curso\Exercicios_beecrowd.com\Bee1016\Bee1016\bin\Debug\net7.0\Bee1016.pdb
+C:\Users\Emerson Oliveira\Documents\csharp-fundamentos-curso\Exercicios_beecrowd.com\Bee1016\Bee1016\obj\Debug\net7.0\Bee1016.csproj.AssemblyReference.cache
+C:\Users\Emerson Oliveira\Documents\csharp-fundamentos-curso\Exercicios_beecrowd.com\Bee1016\Bee1016\obj\Debug\net7.0\Bee1016.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Emerson Oliveira\Documents\csharp-fundamentos-curso\Exercicios_beecrowd.com\Bee1016\Bee1016\obj\Debug\net7.0\Bee1016.AssemblyInfoInputs.cache
+C:\Users\Emerson Oliveira\Documents\csharp-fundamentos-curso\Exercicios_beecrowd.com\Bee1016\Bee1016\obj\Debug\net7.0\Bee1016.AssemblyInfo.cs
+C:\Users\Emerson Oliveira\Documents\csharp-fundamentos-curso\Exercicios_beecrowd.com\Bee1016\Bee1016\obj\Debug\net7.0\Bee1016.csproj.CoreCompileInputs.cache
+C:\Users\Emerson Oliveira\Documents\csharp-fundamentos-curso\Exercicios_beecrowd.com\Bee1016\Bee1016\obj\Debug\net7.0\Bee1016.dll
+C:\Users\Emerson Oliveira\Documents\csharp-fundamentos-curso\Exercicios_beecrowd.com\Bee1016\Bee1016\obj\Debug\net7.0\refint\Bee1016.dll
+C:\Users\Emerson Oliveira\Documents\csharp-fundamentos-curso\Exercicios_beecrowd.com\Bee1016\Bee1016\obj\Debug\net7.0\Bee1016.pdb
+C:\Users\Emerson Oliveira\Documents\csharp-fundamentos-curso\Exercicios_beecrowd.com\Bee1016\Bee1016\obj\Debug\net7.0\Bee1016.genruntimeconfig.cache
+C:\Users\Emerson Oliveira\Documents\csharp-fundamentos-curso\Exercicios_beecrowd.com\Bee1016\Bee1016\obj\Debug\net7.0\ref\Bee1016.dll
