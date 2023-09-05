@@ -1,0 +1,14 @@
+C:\Users\Emerson Oliveira\Documents\csharp-fundamentos-curso\Exercicios_Seção_2-Estrutura_Condicional\Bee1038\Bee1038\bin\Debug\net6.0\Bee1038.exe
+C:\Users\Emerson Oliveira\Documents\csharp-fundamentos-curso\Exercicios_Seção_2-Estrutura_Condicional\Bee1038\Bee1038\bin\Debug\net6.0\Bee1038.deps.json
+C:\Users\Emerson Oliveira\Documents\csharp-fundamentos-curso\Exercicios_Seção_2-Estrutura_Condicional\Bee1038\Bee1038\bin\Debug\net6.0\Bee1038.runtimeconfig.json
+C:\Users\Emerson Oliveira\Documents\csharp-fundamentos-curso\Exercicios_Seção_2-Estrutura_Condicional\Bee1038\Bee1038\bin\Debug\net6.0\Bee1038.dll
+C:\Users\Emerson Oliveira\Documents\csharp-fundamentos-curso\Exercicios_Seção_2-Estrutura_Condicional\Bee1038\Bee1038\bin\Debug\net6.0\Bee1038.pdb
+C:\Users\Emerson Oliveira\Documents\csharp-fundamentos-curso\Exercicios_Seção_2-Estrutura_Condicional\Bee1038\Bee1038\obj\Debug\net6.0\Bee1038.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Emerson Oliveira\Documents\csharp-fundamentos-curso\Exercicios_Seção_2-Estrutura_Condicional\Bee1038\Bee1038\obj\Debug\net6.0\Bee1038.AssemblyInfoInputs.cache
+C:\Users\Emerson Oliveira\Documents\csharp-fundamentos-curso\Exercicios_Seção_2-Estrutura_Condicional\Bee1038\Bee1038\obj\Debug\net6.0\Bee1038.AssemblyInfo.cs
+C:\Users\Emerson Oliveira\Documents\csharp-fundamentos-curso\Exercicios_Seção_2-Estrutura_Condicional\Bee1038\Bee1038\obj\Debug\net6.0\Bee1038.csproj.CoreCompileInputs.cache
+C:\Users\Emerson Oliveira\Documents\csharp-fundamentos-curso\Exercicios_Seção_2-Estrutura_Condicional\Bee1038\Bee1038\obj\Debug\net6.0\Bee1038.dll
+C:\Users\Emerson Oliveira\Documents\csharp-fundamentos-curso\Exercicios_Seção_2-Estrutura_Condicional\Bee1038\Bee1038\obj\Debug\net6.0\refint\Bee1038.dll
+C:\Users\Emerson Oliveira\Documents\csharp-fundamentos-curso\Exercicios_Seção_2-Estrutura_Condicional\Bee1038\Bee1038\obj\Debug\net6.0\Bee1038.pdb
+C:\Users\Emerson Oliveira\Documents\csharp-fundamentos-curso\Exercicios_Seção_2-Estrutura_Condicional\Bee1038\Bee1038\obj\Debug\net6.0\Bee1038.genruntimeconfig.cache
+C:\Users\Emerson Oliveira\Documents\csharp-fundamentos-curso\Exercicios_Seção_2-Estrutura_Condicional\Bee1038\Bee1038\obj\Debug\net6.0\ref\Bee1038.dll

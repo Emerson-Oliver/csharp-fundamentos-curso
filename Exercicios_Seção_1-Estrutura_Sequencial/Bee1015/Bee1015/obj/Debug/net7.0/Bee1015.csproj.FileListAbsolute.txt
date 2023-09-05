@@ -1,0 +1,15 @@
+C:\Users\Emerson Oliveira\Documents\csharp-fundamentos-curso\Exercicios_Seção_1-beecrowd.com\Bee1015\Bee1015\bin\Debug\net7.0\Bee1015.exe
+C:\Users\Emerson Oliveira\Documents\csharp-fundamentos-curso\Exercicios_Seção_1-beecrowd.com\Bee1015\Bee1015\bin\Debug\net7.0\Bee1015.deps.json
+C:\Users\Emerson Oliveira\Documents\csharp-fundamentos-curso\Exercicios_Seção_1-beecrowd.com\Bee1015\Bee1015\bin\Debug\net7.0\Bee1015.runtimeconfig.json
+C:\Users\Emerson Oliveira\Documents\csharp-fundamentos-curso\Exercicios_Seção_1-beecrowd.com\Bee1015\Bee1015\bin\Debug\net7.0\Bee1015.dll
+C:\Users\Emerson Oliveira\Documents\csharp-fundamentos-curso\Exercicios_Seção_1-beecrowd.com\Bee1015\Bee1015\bin\Debug\net7.0\Bee1015.pdb
+C:\Users\Emerson Oliveira\Documents\csharp-fundamentos-curso\Exercicios_Seção_1-beecrowd.com\Bee1015\Bee1015\obj\Debug\net7.0\Bee1015.csproj.AssemblyReference.cache
+C:\Users\Emerson Oliveira\Documents\csharp-fundamentos-curso\Exercicios_Seção_1-beecrowd.com\Bee1015\Bee1015\obj\Debug\net7.0\Bee1015.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Emerson Oliveira\Documents\csharp-fundamentos-curso\Exercicios_Seção_1-beecrowd.com\Bee1015\Bee1015\obj\Debug\net7.0\Bee1015.AssemblyInfoInputs.cache
+C:\Users\Emerson Oliveira\Documents\csharp-fundamentos-curso\Exercicios_Seção_1-beecrowd.com\Bee1015\Bee1015\obj\Debug\net7.0\Bee1015.AssemblyInfo.cs
+C:\Users\Emerson Oliveira\Documents\csharp-fundamentos-curso\Exercicios_Seção_1-beecrowd.com\Bee1015\Bee1015\obj\Debug\net7.0\Bee1015.csproj.CoreCompileInputs.cache
+C:\Users\Emerson Oliveira\Documents\csharp-fundamentos-curso\Exercicios_Seção_1-beecrowd.com\Bee1015\Bee1015\obj\Debug\net7.0\Bee1015.dll
+C:\Users\Emerson Oliveira\Documents\csharp-fundamentos-curso\Exercicios_Seção_1-beecrowd.com\Bee1015\Bee1015\obj\Debug\net7.0\refint\Bee1015.dll
+C:\Users\Emerson Oliveira\Documents\csharp-fundamentos-curso\Exercicios_Seção_1-beecrowd.com\Bee1015\Bee1015\obj\Debug\net7.0\Bee1015.pdb
+C:\Users\Emerson Oliveira\Documents\csharp-fundamentos-curso\Exercicios_Seção_1-beecrowd.com\Bee1015\Bee1015\obj\Debug\net7.0\Bee1015.genruntimeconfig.cache
+C:\Users\Emerson Oliveira\Documents\csharp-fundamentos-curso\Exercicios_Seção_1-beecrowd.com\Bee1015\Bee1015\obj\Debug\net7.0\ref\Bee1015.dll

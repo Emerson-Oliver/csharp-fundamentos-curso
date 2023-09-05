@@ -1,0 +1,14 @@
+C:\Users\Emerson Oliveira\Documents\csharp-fundamentos-curso\Seção-2-Estrutura_Condicional\ExercicioExemplo\ExercicioExemplo\bin\Debug\net6.0\ExercicioExemplo.exe
+C:\Users\Emerson Oliveira\Documents\csharp-fundamentos-curso\Seção-2-Estrutura_Condicional\ExercicioExemplo\ExercicioExemplo\bin\Debug\net6.0\ExercicioExemplo.deps.json
+C:\Users\Emerson Oliveira\Documents\csharp-fundamentos-curso\Seção-2-Estrutura_Condicional\ExercicioExemplo\ExercicioExemplo\bin\Debug\net6.0\ExercicioExemplo.runtimeconfig.json
+C:\Users\Emerson Oliveira\Documents\csharp-fundamentos-curso\Seção-2-Estrutura_Condicional\ExercicioExemplo\ExercicioExemplo\bin\Debug\net6.0\ExercicioExemplo.dll
+C:\Users\Emerson Oliveira\Documents\csharp-fundamentos-curso\Seção-2-Estrutura_Condicional\ExercicioExemplo\ExercicioExemplo\bin\Debug\net6.0\ExercicioExemplo.pdb
+C:\Users\Emerson Oliveira\Documents\csharp-fundamentos-curso\Seção-2-Estrutura_Condicional\ExercicioExemplo\ExercicioExemplo\obj\Debug\net6.0\ExercicioExemplo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Emerson Oliveira\Documents\csharp-fundamentos-curso\Seção-2-Estrutura_Condicional\ExercicioExemplo\ExercicioExemplo\obj\Debug\net6.0\ExercicioExemplo.AssemblyInfoInputs.cache
+C:\Users\Emerson Oliveira\Documents\csharp-fundamentos-curso\Seção-2-Estrutura_Condicional\ExercicioExemplo\ExercicioExemplo\obj\Debug\net6.0\ExercicioExemplo.AssemblyInfo.cs
+C:\Users\Emerson Oliveira\Documents\csharp-fundamentos-curso\Seção-2-Estrutura_Condicional\ExercicioExemplo\ExercicioExemplo\obj\Debug\net6.0\ExercicioExemplo.csproj.CoreCompileInputs.cache
+C:\Users\Emerson Oliveira\Documents\csharp-fundamentos-curso\Seção-2-Estrutura_Condicional\ExercicioExemplo\ExercicioExemplo\obj\Debug\net6.0\ExercicioExemplo.dll
+C:\Users\Emerson Oliveira\Documents\csharp-fundamentos-curso\Seção-2-Estrutura_Condicional\ExercicioExemplo\ExercicioExemplo\obj\Debug\net6.0\refint\ExercicioExemplo.dll
+C:\Users\Emerson Oliveira\Documents\csharp-fundamentos-curso\Seção-2-Estrutura_Condicional\ExercicioExemplo\ExercicioExemplo\obj\Debug\net6.0\ExercicioExemplo.pdb
+C:\Users\Emerson Oliveira\Documents\csharp-fundamentos-curso\Seção-2-Estrutura_Condicional\ExercicioExemplo\ExercicioExemplo\obj\Debug\net6.0\ExercicioExemplo.genruntimeconfig.cache
+C:\Users\Emerson Oliveira\Documents\csharp-fundamentos-curso\Seção-2-Estrutura_Condicional\ExercicioExemplo\ExercicioExemplo\obj\Debug\net6.0\ref\ExercicioExemplo.dll
