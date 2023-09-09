@@ -1,0 +1,14 @@
+C:\Users\Emerson Oliveira\Documents\csharp-fundamentos-curso\Seção_3_Estrutura_Repetitiva_While\ExercicioExemplo1\ExercicioExemplo1\bin\Debug\net6.0\ExercicioExemplo1.exe
+C:\Users\Emerson Oliveira\Documents\csharp-fundamentos-curso\Seção_3_Estrutura_Repetitiva_While\ExercicioExemplo1\ExercicioExemplo1\bin\Debug\net6.0\ExercicioExemplo1.deps.json
+C:\Users\Emerson Oliveira\Documents\csharp-fundamentos-curso\Seção_3_Estrutura_Repetitiva_While\ExercicioExemplo1\ExercicioExemplo1\bin\Debug\net6.0\ExercicioExemplo1.runtimeconfig.json
+C:\Users\Emerson Oliveira\Documents\csharp-fundamentos-curso\Seção_3_Estrutura_Repetitiva_While\ExercicioExemplo1\ExercicioExemplo1\bin\Debug\net6.0\ExercicioExemplo1.dll
+C:\Users\Emerson Oliveira\Documents\csharp-fundamentos-curso\Seção_3_Estrutura_Repetitiva_While\ExercicioExemplo1\ExercicioExemplo1\bin\Debug\net6.0\ExercicioExemplo1.pdb
+C:\Users\Emerson Oliveira\Documents\csharp-fundamentos-curso\Seção_3_Estrutura_Repetitiva_While\ExercicioExemplo1\ExercicioExemplo1\obj\Debug\net6.0\ExercicioExemplo1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Emerson Oliveira\Documents\csharp-fundamentos-curso\Seção_3_Estrutura_Repetitiva_While\ExercicioExemplo1\ExercicioExemplo1\obj\Debug\net6.0\ExercicioExemplo1.AssemblyInfoInputs.cache
+C:\Users\Emerson Oliveira\Documents\csharp-fundamentos-curso\Seção_3_Estrutura_Repetitiva_While\ExercicioExemplo1\ExercicioExemplo1\obj\Debug\net6.0\ExercicioExemplo1.AssemblyInfo.cs
+C:\Users\Emerson Oliveira\Documents\csharp-fundamentos-curso\Seção_3_Estrutura_Repetitiva_While\ExercicioExemplo1\ExercicioExemplo1\obj\Debug\net6.0\ExercicioExemplo1.csproj.CoreCompileInputs.cache
+C:\Users\Emerson Oliveira\Documents\csharp-fundamentos-curso\Seção_3_Estrutura_Repetitiva_While\ExercicioExemplo1\ExercicioExemplo1\obj\Debug\net6.0\ExercicioExemplo1.dll
+C:\Users\Emerson Oliveira\Documents\csharp-fundamentos-curso\Seção_3_Estrutura_Repetitiva_While\ExercicioExemplo1\ExercicioExemplo1\obj\Debug\net6.0\refint\ExercicioExemplo1.dll
+C:\Users\Emerson Oliveira\Documents\csharp-fundamentos-curso\Seção_3_Estrutura_Repetitiva_While\ExercicioExemplo1\ExercicioExemplo1\obj\Debug\net6.0\ExercicioExemplo1.pdb
+C:\Users\Emerson Oliveira\Documents\csharp-fundamentos-curso\Seção_3_Estrutura_Repetitiva_While\ExercicioExemplo1\ExercicioExemplo1\obj\Debug\net6.0\ExercicioExemplo1.genruntimeconfig.cache
+C:\Users\Emerson Oliveira\Documents\csharp-fundamentos-curso\Seção_3_Estrutura_Repetitiva_While\ExercicioExemplo1\ExercicioExemplo1\obj\Debug\net6.0\ref\ExercicioExemplo1.dll
