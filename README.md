@@ -26,6 +26,9 @@
 - EStrutura Condicional Composta | else - if
 - Estrutura Condicional Encadeada | if - else if - else 
 - Estrutura Condicional switch-case
+- Estruturas repetitivas (while, for)
+- Vetores
+- Matrizes
 
 
 
