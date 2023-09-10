@@ -1,0 +1,14 @@
+C:\Users\Emerson Oliveira\Documents\csharp-fundamentos-curso\Exercicios_Seção_3-Estrutura_Repetitiva_while\Bee1117\Bee1117\bin\Debug\net6.0\Bee1117.exe
+C:\Users\Emerson Oliveira\Documents\csharp-fundamentos-curso\Exercicios_Seção_3-Estrutura_Repetitiva_while\Bee1117\Bee1117\bin\Debug\net6.0\Bee1117.deps.json
+C:\Users\Emerson Oliveira\Documents\csharp-fundamentos-curso\Exercicios_Seção_3-Estrutura_Repetitiva_while\Bee1117\Bee1117\bin\Debug\net6.0\Bee1117.runtimeconfig.json
+C:\Users\Emerson Oliveira\Documents\csharp-fundamentos-curso\Exercicios_Seção_3-Estrutura_Repetitiva_while\Bee1117\Bee1117\bin\Debug\net6.0\Bee1117.dll
+C:\Users\Emerson Oliveira\Documents\csharp-fundamentos-curso\Exercicios_Seção_3-Estrutura_Repetitiva_while\Bee1117\Bee1117\bin\Debug\net6.0\Bee1117.pdb
+C:\Users\Emerson Oliveira\Documents\csharp-fundamentos-curso\Exercicios_Seção_3-Estrutura_Repetitiva_while\Bee1117\Bee1117\obj\Debug\net6.0\Bee1117.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Emerson Oliveira\Documents\csharp-fundamentos-curso\Exercicios_Seção_3-Estrutura_Repetitiva_while\Bee1117\Bee1117\obj\Debug\net6.0\Bee1117.AssemblyInfoInputs.cache
+C:\Users\Emerson Oliveira\Documents\csharp-fundamentos-curso\Exercicios_Seção_3-Estrutura_Repetitiva_while\Bee1117\Bee1117\obj\Debug\net6.0\Bee1117.AssemblyInfo.cs
+C:\Users\Emerson Oliveira\Documents\csharp-fundamentos-curso\Exercicios_Seção_3-Estrutura_Repetitiva_while\Bee1117\Bee1117\obj\Debug\net6.0\Bee1117.csproj.CoreCompileInputs.cache
+C:\Users\Emerson Oliveira\Documents\csharp-fundamentos-curso\Exercicios_Seção_3-Estrutura_Repetitiva_while\Bee1117\Bee1117\obj\Debug\net6.0\Bee1117.dll
+C:\Users\Emerson Oliveira\Documents\csharp-fundamentos-curso\Exercicios_Seção_3-Estrutura_Repetitiva_while\Bee1117\Bee1117\obj\Debug\net6.0\refint\Bee1117.dll
+C:\Users\Emerson Oliveira\Documents\csharp-fundamentos-curso\Exercicios_Seção_3-Estrutura_Repetitiva_while\Bee1117\Bee1117\obj\Debug\net6.0\Bee1117.pdb
+C:\Users\Emerson Oliveira\Documents\csharp-fundamentos-curso\Exercicios_Seção_3-Estrutura_Repetitiva_while\Bee1117\Bee1117\obj\Debug\net6.0\Bee1117.genruntimeconfig.cache
+C:\Users\Emerson Oliveira\Documents\csharp-fundamentos-curso\Exercicios_Seção_3-Estrutura_Repetitiva_while\Bee1117\Bee1117\obj\Debug\net6.0\ref\Bee1117.dll
