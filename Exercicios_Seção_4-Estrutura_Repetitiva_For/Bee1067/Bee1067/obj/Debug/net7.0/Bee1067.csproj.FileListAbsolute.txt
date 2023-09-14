@@ -1,0 +1,14 @@
+C:\Users\laura\Documents\for\Bee1067\Bee1067\bin\Debug\net7.0\Bee1067.exe
+C:\Users\laura\Documents\for\Bee1067\Bee1067\bin\Debug\net7.0\Bee1067.deps.json
+C:\Users\laura\Documents\for\Bee1067\Bee1067\bin\Debug\net7.0\Bee1067.runtimeconfig.json
+C:\Users\laura\Documents\for\Bee1067\Bee1067\bin\Debug\net7.0\Bee1067.dll
+C:\Users\laura\Documents\for\Bee1067\Bee1067\bin\Debug\net7.0\Bee1067.pdb
+C:\Users\laura\Documents\for\Bee1067\Bee1067\obj\Debug\net7.0\Bee1067.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\laura\Documents\for\Bee1067\Bee1067\obj\Debug\net7.0\Bee1067.AssemblyInfoInputs.cache
+C:\Users\laura\Documents\for\Bee1067\Bee1067\obj\Debug\net7.0\Bee1067.AssemblyInfo.cs
+C:\Users\laura\Documents\for\Bee1067\Bee1067\obj\Debug\net7.0\Bee1067.csproj.CoreCompileInputs.cache
+C:\Users\laura\Documents\for\Bee1067\Bee1067\obj\Debug\net7.0\Bee1067.dll
+C:\Users\laura\Documents\for\Bee1067\Bee1067\obj\Debug\net7.0\refint\Bee1067.dll
+C:\Users\laura\Documents\for\Bee1067\Bee1067\obj\Debug\net7.0\Bee1067.pdb
+C:\Users\laura\Documents\for\Bee1067\Bee1067\obj\Debug\net7.0\Bee1067.genruntimeconfig.cache
+C:\Users\laura\Documents\for\Bee1067\Bee1067\obj\Debug\net7.0\ref\Bee1067.dll
