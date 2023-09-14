@@ -1,0 +1,14 @@
+C:\Users\laura\Documents\doWhile\ExercicioExemplo\ExercicioExemplo\bin\Debug\net7.0\ExercicioExemplo.exe
+C:\Users\laura\Documents\doWhile\ExercicioExemplo\ExercicioExemplo\bin\Debug\net7.0\ExercicioExemplo.deps.json
+C:\Users\laura\Documents\doWhile\ExercicioExemplo\ExercicioExemplo\bin\Debug\net7.0\ExercicioExemplo.runtimeconfig.json
+C:\Users\laura\Documents\doWhile\ExercicioExemplo\ExercicioExemplo\bin\Debug\net7.0\ExercicioExemplo.dll
+C:\Users\laura\Documents\doWhile\ExercicioExemplo\ExercicioExemplo\bin\Debug\net7.0\ExercicioExemplo.pdb
+C:\Users\laura\Documents\doWhile\ExercicioExemplo\ExercicioExemplo\obj\Debug\net7.0\ExercicioExemplo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\laura\Documents\doWhile\ExercicioExemplo\ExercicioExemplo\obj\Debug\net7.0\ExercicioExemplo.AssemblyInfoInputs.cache
+C:\Users\laura\Documents\doWhile\ExercicioExemplo\ExercicioExemplo\obj\Debug\net7.0\ExercicioExemplo.AssemblyInfo.cs
+C:\Users\laura\Documents\doWhile\ExercicioExemplo\ExercicioExemplo\obj\Debug\net7.0\ExercicioExemplo.csproj.CoreCompileInputs.cache
+C:\Users\laura\Documents\doWhile\ExercicioExemplo\ExercicioExemplo\obj\Debug\net7.0\ExercicioExemplo.dll
+C:\Users\laura\Documents\doWhile\ExercicioExemplo\ExercicioExemplo\obj\Debug\net7.0\refint\ExercicioExemplo.dll
+C:\Users\laura\Documents\doWhile\ExercicioExemplo\ExercicioExemplo\obj\Debug\net7.0\ExercicioExemplo.pdb
+C:\Users\laura\Documents\doWhile\ExercicioExemplo\ExercicioExemplo\obj\Debug\net7.0\ExercicioExemplo.genruntimeconfig.cache
+C:\Users\laura\Documents\doWhile\ExercicioExemplo\ExercicioExemplo\obj\Debug\net7.0\ref\ExercicioExemplo.dll
