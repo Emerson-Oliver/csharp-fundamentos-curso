@@ -1,0 +1,14 @@
+C:\Users\Emerson Oliveira\Documents\csharp-fundamentos-curso\Exercicios_Seção_4-Estrutura_Repetitiva_For\Bee1073\Bee1073\bin\Debug\net6.0\Bee1073.exe
+C:\Users\Emerson Oliveira\Documents\csharp-fundamentos-curso\Exercicios_Seção_4-Estrutura_Repetitiva_For\Bee1073\Bee1073\bin\Debug\net6.0\Bee1073.deps.json
+C:\Users\Emerson Oliveira\Documents\csharp-fundamentos-curso\Exercicios_Seção_4-Estrutura_Repetitiva_For\Bee1073\Bee1073\bin\Debug\net6.0\Bee1073.runtimeconfig.json
+C:\Users\Emerson Oliveira\Documents\csharp-fundamentos-curso\Exercicios_Seção_4-Estrutura_Repetitiva_For\Bee1073\Bee1073\bin\Debug\net6.0\Bee1073.dll
+C:\Users\Emerson Oliveira\Documents\csharp-fundamentos-curso\Exercicios_Seção_4-Estrutura_Repetitiva_For\Bee1073\Bee1073\bin\Debug\net6.0\Bee1073.pdb
+C:\Users\Emerson Oliveira\Documents\csharp-fundamentos-curso\Exercicios_Seção_4-Estrutura_Repetitiva_For\Bee1073\Bee1073\obj\Debug\net6.0\Bee1073.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Emerson Oliveira\Documents\csharp-fundamentos-curso\Exercicios_Seção_4-Estrutura_Repetitiva_For\Bee1073\Bee1073\obj\Debug\net6.0\Bee1073.AssemblyInfoInputs.cache
+C:\Users\Emerson Oliveira\Documents\csharp-fundamentos-curso\Exercicios_Seção_4-Estrutura_Repetitiva_For\Bee1073\Bee1073\obj\Debug\net6.0\Bee1073.AssemblyInfo.cs
+C:\Users\Emerson Oliveira\Documents\csharp-fundamentos-curso\Exercicios_Seção_4-Estrutura_Repetitiva_For\Bee1073\Bee1073\obj\Debug\net6.0\Bee1073.csproj.CoreCompileInputs.cache
+C:\Users\Emerson Oliveira\Documents\csharp-fundamentos-curso\Exercicios_Seção_4-Estrutura_Repetitiva_For\Bee1073\Bee1073\obj\Debug\net6.0\Bee1073.dll
+C:\Users\Emerson Oliveira\Documents\csharp-fundamentos-curso\Exercicios_Seção_4-Estrutura_Repetitiva_For\Bee1073\Bee1073\obj\Debug\net6.0\refint\Bee1073.dll
+C:\Users\Emerson Oliveira\Documents\csharp-fundamentos-curso\Exercicios_Seção_4-Estrutura_Repetitiva_For\Bee1073\Bee1073\obj\Debug\net6.0\Bee1073.pdb
+C:\Users\Emerson Oliveira\Documents\csharp-fundamentos-curso\Exercicios_Seção_4-Estrutura_Repetitiva_For\Bee1073\Bee1073\obj\Debug\net6.0\Bee1073.genruntimeconfig.cache
+C:\Users\Emerson Oliveira\Documents\csharp-fundamentos-curso\Exercicios_Seção_4-Estrutura_Repetitiva_For\Bee1073\Bee1073\obj\Debug\net6.0\ref\Bee1073.dll

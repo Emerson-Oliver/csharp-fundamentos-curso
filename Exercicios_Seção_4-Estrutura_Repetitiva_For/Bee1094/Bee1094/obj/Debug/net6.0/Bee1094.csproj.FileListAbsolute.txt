@@ -1,0 +1,14 @@
+C:\Users\Emerson Oliveira\Documents\csharp-fundamentos-curso\Exercicios_Seção_4-Estrutura_Repetitiva_For\Bee1094\Bee1094\bin\Debug\net6.0\Bee1094.exe
+C:\Users\Emerson Oliveira\Documents\csharp-fundamentos-curso\Exercicios_Seção_4-Estrutura_Repetitiva_For\Bee1094\Bee1094\bin\Debug\net6.0\Bee1094.deps.json
+C:\Users\Emerson Oliveira\Documents\csharp-fundamentos-curso\Exercicios_Seção_4-Estrutura_Repetitiva_For\Bee1094\Bee1094\bin\Debug\net6.0\Bee1094.runtimeconfig.json
+C:\Users\Emerson Oliveira\Documents\csharp-fundamentos-curso\Exercicios_Seção_4-Estrutura_Repetitiva_For\Bee1094\Bee1094\bin\Debug\net6.0\Bee1094.dll
+C:\Users\Emerson Oliveira\Documents\csharp-fundamentos-curso\Exercicios_Seção_4-Estrutura_Repetitiva_For\Bee1094\Bee1094\bin\Debug\net6.0\Bee1094.pdb
+C:\Users\Emerson Oliveira\Documents\csharp-fundamentos-curso\Exercicios_Seção_4-Estrutura_Repetitiva_For\Bee1094\Bee1094\obj\Debug\net6.0\Bee1094.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Emerson Oliveira\Documents\csharp-fundamentos-curso\Exercicios_Seção_4-Estrutura_Repetitiva_For\Bee1094\Bee1094\obj\Debug\net6.0\Bee1094.AssemblyInfoInputs.cache
+C:\Users\Emerson Oliveira\Documents\csharp-fundamentos-curso\Exercicios_Seção_4-Estrutura_Repetitiva_For\Bee1094\Bee1094\obj\Debug\net6.0\Bee1094.AssemblyInfo.cs
+C:\Users\Emerson Oliveira\Documents\csharp-fundamentos-curso\Exercicios_Seção_4-Estrutura_Repetitiva_For\Bee1094\Bee1094\obj\Debug\net6.0\Bee1094.csproj.CoreCompileInputs.cache
+C:\Users\Emerson Oliveira\Documents\csharp-fundamentos-curso\Exercicios_Seção_4-Estrutura_Repetitiva_For\Bee1094\Bee1094\obj\Debug\net6.0\Bee1094.dll
+C:\Users\Emerson Oliveira\Documents\csharp-fundamentos-curso\Exercicios_Seção_4-Estrutura_Repetitiva_For\Bee1094\Bee1094\obj\Debug\net6.0\refint\Bee1094.dll
+C:\Users\Emerson Oliveira\Documents\csharp-fundamentos-curso\Exercicios_Seção_4-Estrutura_Repetitiva_For\Bee1094\Bee1094\obj\Debug\net6.0\Bee1094.pdb
+C:\Users\Emerson Oliveira\Documents\csharp-fundamentos-curso\Exercicios_Seção_4-Estrutura_Repetitiva_For\Bee1094\Bee1094\obj\Debug\net6.0\Bee1094.genruntimeconfig.cache
+C:\Users\Emerson Oliveira\Documents\csharp-fundamentos-curso\Exercicios_Seção_4-Estrutura_Repetitiva_For\Bee1094\Bee1094\obj\Debug\net6.0\ref\Bee1094.dll
