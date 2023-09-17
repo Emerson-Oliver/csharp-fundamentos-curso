@@ -1,0 +1,14 @@
+C:\Users\laura\Documents\Vetores\ExemploForEach\ExemploForEach\bin\Debug\net7.0\ExemploForEach.exe
+C:\Users\laura\Documents\Vetores\ExemploForEach\ExemploForEach\bin\Debug\net7.0\ExemploForEach.deps.json
+C:\Users\laura\Documents\Vetores\ExemploForEach\ExemploForEach\bin\Debug\net7.0\ExemploForEach.runtimeconfig.json
+C:\Users\laura\Documents\Vetores\ExemploForEach\ExemploForEach\bin\Debug\net7.0\ExemploForEach.dll
+C:\Users\laura\Documents\Vetores\ExemploForEach\ExemploForEach\bin\Debug\net7.0\ExemploForEach.pdb
+C:\Users\laura\Documents\Vetores\ExemploForEach\ExemploForEach\obj\Debug\net7.0\ExemploForEach.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\laura\Documents\Vetores\ExemploForEach\ExemploForEach\obj\Debug\net7.0\ExemploForEach.AssemblyInfoInputs.cache
+C:\Users\laura\Documents\Vetores\ExemploForEach\ExemploForEach\obj\Debug\net7.0\ExemploForEach.AssemblyInfo.cs
+C:\Users\laura\Documents\Vetores\ExemploForEach\ExemploForEach\obj\Debug\net7.0\ExemploForEach.csproj.CoreCompileInputs.cache
+C:\Users\laura\Documents\Vetores\ExemploForEach\ExemploForEach\obj\Debug\net7.0\ExemploForEach.dll
+C:\Users\laura\Documents\Vetores\ExemploForEach\ExemploForEach\obj\Debug\net7.0\refint\ExemploForEach.dll
+C:\Users\laura\Documents\Vetores\ExemploForEach\ExemploForEach\obj\Debug\net7.0\ExemploForEach.pdb
+C:\Users\laura\Documents\Vetores\ExemploForEach\ExemploForEach\obj\Debug\net7.0\ExemploForEach.genruntimeconfig.cache
+C:\Users\laura\Documents\Vetores\ExemploForEach\ExemploForEach\obj\Debug\net7.0\ref\ExemploForEach.dll
