@@ -1,0 +1,14 @@
+C:\Users\laura\Documents\Vetores\Exercicioresolvido3\Exercicioresolvido3\bin\Debug\net7.0\Exercicioresolvido3.exe
+C:\Users\laura\Documents\Vetores\Exercicioresolvido3\Exercicioresolvido3\bin\Debug\net7.0\Exercicioresolvido3.deps.json
+C:\Users\laura\Documents\Vetores\Exercicioresolvido3\Exercicioresolvido3\bin\Debug\net7.0\Exercicioresolvido3.runtimeconfig.json
+C:\Users\laura\Documents\Vetores\Exercicioresolvido3\Exercicioresolvido3\bin\Debug\net7.0\Exercicioresolvido3.dll
+C:\Users\laura\Documents\Vetores\Exercicioresolvido3\Exercicioresolvido3\bin\Debug\net7.0\Exercicioresolvido3.pdb
+C:\Users\laura\Documents\Vetores\Exercicioresolvido3\Exercicioresolvido3\obj\Debug\net7.0\Exercicioresolvido3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\laura\Documents\Vetores\Exercicioresolvido3\Exercicioresolvido3\obj\Debug\net7.0\Exercicioresolvido3.AssemblyInfoInputs.cache
+C:\Users\laura\Documents\Vetores\Exercicioresolvido3\Exercicioresolvido3\obj\Debug\net7.0\Exercicioresolvido3.AssemblyInfo.cs
+C:\Users\laura\Documents\Vetores\Exercicioresolvido3\Exercicioresolvido3\obj\Debug\net7.0\Exercicioresolvido3.csproj.CoreCompileInputs.cache
+C:\Users\laura\Documents\Vetores\Exercicioresolvido3\Exercicioresolvido3\obj\Debug\net7.0\Exercicioresolvido3.dll
+C:\Users\laura\Documents\Vetores\Exercicioresolvido3\Exercicioresolvido3\obj\Debug\net7.0\refint\Exercicioresolvido3.dll
+C:\Users\laura\Documents\Vetores\Exercicioresolvido3\Exercicioresolvido3\obj\Debug\net7.0\Exercicioresolvido3.pdb
+C:\Users\laura\Documents\Vetores\Exercicioresolvido3\Exercicioresolvido3\obj\Debug\net7.0\Exercicioresolvido3.genruntimeconfig.cache
+C:\Users\laura\Documents\Vetores\Exercicioresolvido3\Exercicioresolvido3\obj\Debug\net7.0\ref\Exercicioresolvido3.dll
