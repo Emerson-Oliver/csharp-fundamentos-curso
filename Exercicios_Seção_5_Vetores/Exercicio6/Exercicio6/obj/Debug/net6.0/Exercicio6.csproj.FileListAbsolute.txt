@@ -1,0 +1,14 @@
+C:\Users\Emerson Oliveira\Documents\csharp-fundamentos-curso\Exercicios_Seção_5_Vetores\Exercicio6\Exercicio6\bin\Debug\net6.0\Exercicio6.exe
+C:\Users\Emerson Oliveira\Documents\csharp-fundamentos-curso\Exercicios_Seção_5_Vetores\Exercicio6\Exercicio6\bin\Debug\net6.0\Exercicio6.deps.json
+C:\Users\Emerson Oliveira\Documents\csharp-fundamentos-curso\Exercicios_Seção_5_Vetores\Exercicio6\Exercicio6\bin\Debug\net6.0\Exercicio6.runtimeconfig.json
+C:\Users\Emerson Oliveira\Documents\csharp-fundamentos-curso\Exercicios_Seção_5_Vetores\Exercicio6\Exercicio6\bin\Debug\net6.0\Exercicio6.dll
+C:\Users\Emerson Oliveira\Documents\csharp-fundamentos-curso\Exercicios_Seção_5_Vetores\Exercicio6\Exercicio6\bin\Debug\net6.0\Exercicio6.pdb
+C:\Users\Emerson Oliveira\Documents\csharp-fundamentos-curso\Exercicios_Seção_5_Vetores\Exercicio6\Exercicio6\obj\Debug\net6.0\Exercicio6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Emerson Oliveira\Documents\csharp-fundamentos-curso\Exercicios_Seção_5_Vetores\Exercicio6\Exercicio6\obj\Debug\net6.0\Exercicio6.AssemblyInfoInputs.cache
+C:\Users\Emerson Oliveira\Documents\csharp-fundamentos-curso\Exercicios_Seção_5_Vetores\Exercicio6\Exercicio6\obj\Debug\net6.0\Exercicio6.AssemblyInfo.cs
+C:\Users\Emerson Oliveira\Documents\csharp-fundamentos-curso\Exercicios_Seção_5_Vetores\Exercicio6\Exercicio6\obj\Debug\net6.0\Exercicio6.csproj.CoreCompileInputs.cache
+C:\Users\Emerson Oliveira\Documents\csharp-fundamentos-curso\Exercicios_Seção_5_Vetores\Exercicio6\Exercicio6\obj\Debug\net6.0\Exercicio6.dll
+C:\Users\Emerson Oliveira\Documents\csharp-fundamentos-curso\Exercicios_Seção_5_Vetores\Exercicio6\Exercicio6\obj\Debug\net6.0\refint\Exercicio6.dll
+C:\Users\Emerson Oliveira\Documents\csharp-fundamentos-curso\Exercicios_Seção_5_Vetores\Exercicio6\Exercicio6\obj\Debug\net6.0\Exercicio6.pdb
+C:\Users\Emerson Oliveira\Documents\csharp-fundamentos-curso\Exercicios_Seção_5_Vetores\Exercicio6\Exercicio6\obj\Debug\net6.0\Exercicio6.genruntimeconfig.cache
+C:\Users\Emerson Oliveira\Documents\csharp-fundamentos-curso\Exercicios_Seção_5_Vetores\Exercicio6\Exercicio6\obj\Debug\net6.0\ref\Exercicio6.dll
